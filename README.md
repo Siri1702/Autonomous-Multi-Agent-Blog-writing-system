@@ -248,5 +248,3 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 - [Streamlit](https://streamlit.io/) for the beautiful UI
 
 ---
-
-<p align="center">Built with ❤️ using LangGraph and Streamlit</p>
