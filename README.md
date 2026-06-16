@@ -1,4 +1,4 @@
-# 📝 BlogCraft AI
+# 📝 Autonomous-Multi-Agent-Blog-writing-system
 
 > An intelligent multi-agent system for generating high-quality data science blog posts using LangGraph and Large Language Models.
 
@@ -103,8 +103,8 @@ BlogCraft AI implements a sophisticated **LangGraph state machine** with the fol
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/yourusername/blogcraft-ai.git
-cd blogcraft-ai
+git clone https://github.com/Siri1702/Autonomous-Multi-Agent-Blog-writing-system.git
+cd Autonomous-Multi-Agent-Blog-writing-system
 ```
 
 2. **Create a virtual environment**
