@@ -1,0 +1,13 @@
+streamlit
+pydantic
+langchain
+langchainhub
+langchain-community
+langchain-ollama
+langchain-core
+langchain-classic
+langchain-huggingface
+python-multipart
+pandas
+numpy
+scikit-learn
